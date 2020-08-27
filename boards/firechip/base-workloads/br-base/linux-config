@@ -1,6 +1,7 @@
 
 CONFIG_DEFAULT_HOSTNAME="ucbvax"
 
+CONFIG_MODULES=y
 #
 # SoC selection
 #
